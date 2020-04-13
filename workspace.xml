@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7895d53-6497-4eb9-9f46-628c0d2a78b7" name="Default Changelist" comment="" />
+    <list default="true" id="1d773ea2-b494-43e8-9006-eddbf353b07c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1aTjYV5PIIXodM62TtVAiYMF3cg" />
+  <component name="ProjectId" id="1aTmSwpTz1bLSntkA2wTU16NbnI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ass1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.internshala.Main" />
-      <module name="JavaASS1" />
+      <module name="ass1" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -24,9 +31,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -35,34 +46,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b7895d53-6497-4eb9-9f46-628c0d2a78b7" name="Default Changelist" comment="" />
-      <created>1586766525211</created>
+      <changelist id="1d773ea2-b494-43e8-9006-eddbf353b07c" name="Default Changelist" comment="" />
+      <created>1586767961291</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586766525211</updated>
+      <updated>1586767961291</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1286" height="178" key="GridCell.Tab.0.bottom" timestamp="1586785633185">
+    <state width="1286" height="176" key="GridCell.Tab.0.bottom" timestamp="1586768122491">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586785633185" />
-    <state width="1286" height="178" key="GridCell.Tab.0.center" timestamp="1586785633183">
+    <state width="1286" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586768122491" />
+    <state width="1286" height="176" key="GridCell.Tab.0.center" timestamp="1586768122487">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586785633183" />
-    <state width="1286" height="178" key="GridCell.Tab.0.left" timestamp="1586785633178">
+    <state width="1286" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586768122487" />
+    <state width="1286" height="176" key="GridCell.Tab.0.left" timestamp="1586768122487">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586785633178" />
-    <state width="1286" height="178" key="GridCell.Tab.0.right" timestamp="1586785633184">
+    <state width="1286" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586768122487" />
+    <state width="1286" height="176" key="GridCell.Tab.0.right" timestamp="1586768122491">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586785633184" />
-    <state x="65" y="0" key="new project wizard" timestamp="1586767960803">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586767960803" />
+    <state width="1286" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586768122491" />
   </component>
 </project>
